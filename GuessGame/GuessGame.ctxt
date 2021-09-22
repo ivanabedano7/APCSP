@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GuessGame
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ guessgame\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ n1to50()
+comment1.text=GuessGame\ Requirements\r\n\ Computer\ generates\ a\ random\ number\ from\ 1\ to\ 50\r\n\ You\ get\ 15\ tries\ to\ guess\ the\ number.\r\n\ After\ each\ guess,\ the\ computer\ will\ tell\ you\ to\ guess\ higher\ or\ lower.\r\n\ The\ program\ ends\ when\ guesses\ have\ run\ out\ or\ if\ you\ guessed\ correctly.\r\n\ \r\n
+numComments=2
