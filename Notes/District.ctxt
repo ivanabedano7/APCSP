@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=District
+comment1.params=
+comment1.target=District()
+comment2.params=school
+comment2.target=void\ addSchools(School)
+comment3.params=school
+comment3.target=void\ removeSchools(School)
+comment4.params=numOfSchools
+comment4.target=void\ testAddSchools(int)
+comment5.params=
+comment5.target=void\ printAllStudents()
+comment5.text=Goal\:\ Create\ a\ mehtod\ that\ prints\ out\ EVERY\ student's\ name\ and\ ID\ number\r\n\ \r\n\ <Student's\ name>\ \:\ SchoolID\ \:\ StudentID\r\n\ Sample\:\r\n\ "Test"\ \:\ 1\ \:\ 1\r\n
+numComments=6
